@@ -1,3 +1,3 @@
 # dockriam
 IAM on Docker
-plus some othe bits from my toolbox
+plus some other bits from my toolbox
